@@ -85,7 +85,7 @@ If you're a PMM who has built a Claude skill for a specific workflow — competi
 
 ## About
 
-Built by [Rohit Rangnekar](https://www.linkedin.com/in/rohitrangnekar/) — PMM with 10 years in B2B SaaS across Whatfix, Leap, and DoSelect (acquired by Info Edge). Currently doing PMM consulting and advisory work across AI and SaaS companies.
+Built by [Rohit Tirkey](https://www.linkedin.com/in/rohittirkey/) — PMM with 10 years in B2B SaaS across Whatfix, Leap, and DoSelect (acquired by Info Edge). Currently doing PMM consulting and advisory work across AI and SaaS companies.
 
 The workflows encoded in these skills come from real engagements: competitive research for voice AI platforms, PMM strategy for CRM and DAP companies, GTM planning for early-stage AI products.
 
